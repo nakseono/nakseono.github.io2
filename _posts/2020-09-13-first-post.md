@@ -7,6 +7,7 @@ categories:
 tags:
   - blog
 last_modified_at: 2020-09-14T08:06:00-05:00
+comment: true
 ---
 
 Github 블로그의 첫 글이다.
