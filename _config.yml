@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name: "김선호"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/profile2.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "늘 성장하고픈 주니어 개발자"
   location: "Seoul"
   email:
