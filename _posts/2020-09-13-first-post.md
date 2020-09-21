@@ -1,8 +1,8 @@
 ---
-title: "github 블로그 스타트"
+title: "글 뒤로 가는가?"
 excerpt: "github 블로그의 테스트 겸 첫 글이다."
 
-date: 2020-09-13
+date: 2020-09-16
 categories:
   - blog
 tags:
@@ -12,8 +12,8 @@ toc: true
 toc_sticky: true
 ---
 
-
 # TOC Test
+
 Github 블로그의 첫 글이다.
 
 ## TOC H2
