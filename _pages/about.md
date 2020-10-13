@@ -1,10 +1,8 @@
 ---
-title: "About nakseono.github.io"
+title: "Hello, I'm SeonHo Kim 🐥"
 permalink: /about/
 layout: single
 ---
-
-# Hello, I'm SeonHo Kim 🐥
 
 안녕하세요!  
 팀에 잘 녹아드는, 마치 설탕같은 개발자 김선호 입니다! 😀
