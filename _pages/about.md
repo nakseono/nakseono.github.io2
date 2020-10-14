@@ -1,6 +1,7 @@
 ---
 title: "Hello, I'm SeonHo Kim 🐥"
 permalink: /about/
+date: 2020-10-14
 layout: single
 ---
 
